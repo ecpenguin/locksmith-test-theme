@@ -543,5 +543,15 @@
         }
       }
     }
+  },
+  "customer_accounts": {
+    "payment_methods": {
+      "store_credit": {
+        "label": "ポイント"
+      }
+    },
+    "payment_method_brands": {
+      "storecredit": "ポイント"
+    }
   }
 }
