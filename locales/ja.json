@@ -533,5 +533,15 @@
       "expanded": "ギフトカードカードの受取人フォームを展開しました",
       "collapsed": "ギフトカードカードの受取人フォームを折りたたみました"
     }
+  },
+  "shopify": {
+    "checkout": {
+      "payment": {
+        "store_credit": {
+          "label": "ポイント",
+          "apply_label": "ポイントを適用"
+        }
+      }
+    }
   }
 }
